@@ -1,0 +1,4 @@
+realigned code to ensure everything was nested appropriately
+added section notes to differentiate between elements
+changed <h2> in footer to <h4> so that the header elements were in sequential order
+line 34: added id="search-engine-optimization" so that it would link to the appropriate section
