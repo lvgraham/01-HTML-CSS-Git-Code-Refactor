@@ -8,3 +8,5 @@ line 34: added id="search-engine-optimization" so that it would link to the appr
 style.css
 consolidated header, content, and benefits css that was repeated
 added section notes
+
+adding this to test my git. 
