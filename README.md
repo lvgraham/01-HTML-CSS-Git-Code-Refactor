@@ -26,3 +26,17 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
+Below are the changes I made to accomodate the acceptence criteria listed: 
+
+index.html
+realigned code to ensure everything was nested appropriately
+added section notes to differentiate between elements
+changed <h2> in footer to <h4> so that the header elements were in sequential order
+line 34: added id="search-engine-optimization" so that it would link to the appropriate section
+
+
+style.css
+consolidated header, content, and benefits css that was repeated
+added section notes. 
+
+
