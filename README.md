@@ -1,8 +1,28 @@
-# 01-HTML-CSS-Git-Code-Refactor
+# Description
 
-This repository contains the first homework: 01 HTML CSS Git: Code Refactor. The instructions and criteria for this assignment are below. 
+This project includes a website that was refactored in order to increase accessibility for users. 
 
-## User Story
+## Changes made
+
+In order to meet the acceptance criteria, the following changes were made to the original code. 
+
+HTML
+<ul>
+    <li>restructured html format</li>
+    <li>added section notes</li>
+    <li>addressed broken link</li>
+    <li>included semantic elements</li>
+    <li>ensured heading attributes fell in sequential order</li>
+</ul>
+
+CSS
+<ul>
+    <li>restructured html format</li>
+    <li>added section notes</li>
+    <li>addressed broken link</li>
+    <li>included semantic elements</li>
+    <li>ensured heading attributes fell in sequential order</li>
+</ul>
 
 ```
 AS A marketing agency
